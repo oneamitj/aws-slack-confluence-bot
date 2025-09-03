@@ -1,1 +1,1 @@
-
+# This CloudFormation template defines a stack for deploying a Lambda function used for processing Slack events.
